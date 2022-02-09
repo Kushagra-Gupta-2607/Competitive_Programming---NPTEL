@@ -2,8 +2,8 @@
 using namespace std;
 
 
-/* Problem - Reversort
-https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c
+/* Problem - Reversort (Google Code Jam 2021)
+https://bit.ly/NPTEL-cs99-W01-Mod2-problem
 
 The cost of the reverse operation is the length of the sub-array being reversed.
 Our task is to compute the "total cost" of reverse sorting an array.
